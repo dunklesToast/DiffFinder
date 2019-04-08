@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "string-similarity": "^3.0.0"
+  },
+  "name": "difffinder",
+  "version": "1.0.0",
+  "main": "src/compare.js",
+  "license": "MIT"
+}
